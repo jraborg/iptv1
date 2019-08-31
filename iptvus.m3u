@@ -1,49 +1,13 @@
 #EXTM3U
-EXTINF:-1,[USA] Bravo US
-http://134.19.181.172:8000/live/nnn3/nnn3/207.ts
-EXTINF:-1,[USA] CHCH HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1974.ts
-EXTINF:-1,[USA] CNN
-http://134.19.181.172:8000/live/nnn3/nnn3/322.ts
-EXTINF:-1,[USA] Cartoon Network HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1898.ts
-EXTINF:-1,[USA] E! Entertainment US
-http://134.19.181.172:8000/live/nnn3/nnn3/1962.ts
-EXTINF:-1,[USA] ESPN 2
-http://134.19.181.172:8000/live/nnn3/nnn3/2003.ts
-EXTINF:-1,[USA] ESPN U
-http://134.19.181.172:8000/live/nnn3/nnn3/2002.ts
-EXTINF:-1,[USA] Fox HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1905.ts
-EXTINF:-1,[USA] Fox Sport 1 HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1089.ts
-EXTINF:-1,[USA] HBO Signature
-http://134.19.181.172:8000/live/nnn3/nnn3/1976.ts
-EXTINF:-1,[USA] HBO US
-http://134.19.181.172:8000/live/nnn3/nnn3/1975.ts
-EXTINF:-1,[USA] HBO Zone
-http://134.19.181.172:8000/live/nnn3/nnn3/1961.ts
-EXTINF:-1,[USA] HGTV
-http://134.19.181.172:8000/live/nnn3/nnn3/2014.ts
-EXTINF:-1,[USA] MSNBC
-http://134.19.181.172:8000/live/nnn3/nnn3/2258.ts
-EXTINF:-1,[USA] NBA TV HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1903.ts
-EXTINF:-1,[USA] NBC Golf
-http://134.19.181.172:8000/live/nnn3/nnn3/2042.ts
-EXTINF:-1,[USA] NFL Network HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1908.ts
-EXTINF:-1,[USA] NHL NETWORK
-http://134.19.181.172:8000/live/nnn3/nnn3/1907.ts
-EXTINF:-1,[USA] Nicktoons
-http://134.19.181.172:8000/live/nnn3/nnn3/1904.ts
-EXTINF:-1,[USA] SPIKE HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1909.ts
-EXTINF:-1,[USA] Showtime HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1901.ts
-EXTINF:-1,[USA] SyFy HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1910.ts
-EXTINF:-1,[USA] Tennis Channel HD
-http://134.19.181.172:8000/live/nnn3/nnn3/1992.ts
-EXTINF:-1,[USA] USA Network
-http://134.19.181.172:8000/live/nnn3/nnn3/1911.ts
+#EXTINF:-1,US: 5 Star Max HD
+http://viptv.accesss.me:25461/HVHFDMcYMymXi32n6B4drPUWxUYZiDvIIpgHSi5S/N0Js8nixmcLfMFM2BuRtyC0JCdP2XvUYFmP1GlYK/3228
+#EXTINF:-1,US: 5 USA
+http://viptv.accesss.me:25461/HVHFDMcYMymXi32n6B4drPUWxUYZiDvIIpgHSi5S/N0Js8nixmcLfMFM2BuRtyC0JCdP2XvUYFmP1GlYK/3227
+#EXTINF:-1,US: ABC (East) HD
+http://viptv.accesss.me:25461/HVHFDMcYMymXi32n6B4drPUWxUYZiDvIIpgHSi5S/N0Js8nixmcLfMFM2BuRtyC0JCdP2XvUYFmP1GlYK/3226
+#EXTINF:-1,US: ABC 10 MIAMI
+http://viptv.accesss.me:25461/HVHFDMcYMymXi32n6B4drPUWxUYZiDvIIpgHSi5S/N0Js8nixmcLfMFM2BuRtyC0JCdP2XvUYFmP1GlYK/3225
+#EXTINF:-1,US: ABC 10 SAN DIEGO
+http://viptv.accesss.me:25461/HVHFDMcYMymXi32n6B4drPUWxUYZiDvIIpgHSi5S/N0Js8nixmcLfMFM2BuRtyC0JCdP2XvUYFmP1GlYK/3224
+#EXTINF:-1,US: ABC 10 WPLG Miami HD
+http://viptv.accesss.me:25461/HVHFDMcYMymXi32n6B4drPUWxUYZiDvIIpgHSi5S/N0Js8nixmcLfMFM2BuRtyC0JCdP2XvUYFmP1GlYK/3223
